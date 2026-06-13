@@ -36,7 +36,7 @@ The diagnostic analysis revealed a critical scenario, often referred to in busin
 
 ### 3. VIP Churn (The Loyalty Tier Trap)
 * **Bronze Tier Churn:** **88%**. While high, a heavy churn rate among entry-level buyers who shop once with a discount code and leave is common in e-commerce.
-* **Platinum Tier Churn:** **57%**. This is the highest red flag. Platinum customers (who historically spent over $5,000) are leaving at an alarming rate. Losing more than half of your highest-value segment means the current loyalty program and VIP relationship management are failing to retain the core revenue drivers.
+* **Platinum Tier Churn:** **57%**. This is the highest red flag. Platinum customers are leaving at an alarming rate, historically representing $2.6 million in revenue. Losing more than half of your highest-value segment means the current loyalty program and VIP relationship management are failing to retain the core revenue drivers.
 
 ---
 
